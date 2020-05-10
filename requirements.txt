@@ -1,1 +1,6 @@
 ipython==7.3.0
+pandas
+matplotlib
+seaborn
+pandas
+numpy
